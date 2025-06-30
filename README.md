@@ -45,7 +45,7 @@ This project provides a comprehensive view of a large multi-national retail data
   
 ### 📸 Dashboard previews
 _Add images like this after uploading screenshots:_
-```markdown
+
 ![Executive Dashboard](images/executive_dashboard.png)
 ![Delivery Dashboard](images/delivery_dashboard.png)
 ![Customer Segmentation](images/customer_segmentation_dashboard.png)
