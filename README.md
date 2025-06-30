@@ -32,7 +32,7 @@ This project provides a comprehensive view of a large multi-national retail data
 
 ---
 
-## 📊 Interactive Dashboards
+## 📊 Dashboard previews
 ![1  Excutive Dashboard](https://github.com/user-attachments/assets/a4af18ab-3de9-4c63-896c-c8594ba144a3)
 ![2  Delivery Performance Dashboard](https://github.com/user-attachments/assets/7e19124c-6b34-49df-ada1-aa5f98244e4c)
 ![3  RFM Analysis Dashboard](https://github.com/user-attachments/assets/8d960aba-da66-4e2c-b471-09afb19a16bb)
@@ -40,16 +40,10 @@ This project provides a comprehensive view of a large multi-national retail data
 
 ### 🚀 Links to dashboards
 - **📈 Tableau Dashboard:**  
-  [View on Tableau Public](https://public.tableau.com/app/profile/truonghuyphan.da/viz/TABLEAU-DataCoDashboard/EXCUTIVEdashboard) or file: Project/blob/main/TABLEAU%20-%20DataCo%20Dashboard.twbx 
-- **📈 Power BI Dashboard**
+  [View on Tableau Public](https://public.tableau.com/app/profile/truonghuyphan.da/viz/TABLEAU-DataCoDashboard/EXCUTIVEdashboard) or file TABLEAU - DataCo Dashboard 
+- **📈 Power BI Dashboard:**
+  file TABLEAU - DataCo Dashboard
   
-### 📸 Dashboard previews
-_Add images like this after uploading screenshots:_
-
-![Executive Dashboard](images/executive_dashboard.png)
-![Delivery Dashboard](images/delivery_dashboard.png)
-![Customer Segmentation](images/customer_segmentation_dashboard.png)
-
 ---
 
 ## 🚀 Project Goals
